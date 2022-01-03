@@ -33,3 +33,5 @@
 
 # Build dir
 zal/build/*
+/.vs
+/out/build/x64-Debug
